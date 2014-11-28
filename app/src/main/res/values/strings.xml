@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">DA.Buttons</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="button">Desarrollando Android</string>
+    <string name="radioButton1">Desarrollando Android SI</string>
+    <string name="radioButton2">Desarrollando Android NO</string>
+    <string name="toggleButton1">Desarrollando Android ON</string>
+    <string name="toggleButton2">Desarrollando Android OFF</string>
+    <string name="imageButton">Desarrollando Android</string>
+
+</resources>

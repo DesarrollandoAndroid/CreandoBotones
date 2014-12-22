@@ -38,7 +38,7 @@ public class MainActivity extends ActionBarActivity {
         desAnd.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-                Intent intent = new Intent(Intent.ACTION_WEB_SEARCH);
+                Intent intent = new Intent(Intent.ACTION_VIEW);
                 intent.setData(Uri.parse("https://desarrollandoandroid.wordpress.com"));
                 startActivity(intent);
             }
